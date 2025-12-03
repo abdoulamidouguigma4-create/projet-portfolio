@@ -1,0 +1,52 @@
+/* 
+==============================================
+STYLE-ADAMA.CSS
+Styles spécifiques à GANSORE Adama
+==============================================
+*/
+
+/* Carte spécifique à Adama */
+.carte-adama {
+    background-color: #f0fff4;
+}
+
+/* Photo d'Adama */
+.photo-adama .photo-membre {
+    border-color: #27ae60;
+}
+
+/* Badge d'Adama */
+.badge-adama {
+    background-color: #27ae60;
+}
+
+/* Nom d'Adama */
+.nom-adama {
+    border-bottom-color: #27ae60;
+    color: #27ae60;
+}
+
+/* Description d'Adama */
+.description-adama {
+    color: #2ecc71;
+}
+
+/* Compétences d'Adama */
+.competence-adama {
+    border-left-color: #27ae60;
+    background-color: #e8f8ef;
+}
+
+.competence-adama:hover {
+    background-color: #27ae60;
+}
+
+/* Réseaux sociaux d'Adama */
+.reseaux-adama .lien-reseau {
+    color: #27ae60;
+    background-color: #e8f8ef;
+}
+
+.reseaux-adama .lien-reseau:hover {
+    background-color: #27ae60;
+}

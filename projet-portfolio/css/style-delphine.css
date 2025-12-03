@@ -1,0 +1,52 @@
+/* 
+==============================================
+STYLE-DELPHINE.CSS
+Styles spécifiques à GARBA Delphine
+==============================================
+*/
+
+/* Carte spécifique à Delphine */
+.carte-delphine {
+    background-color: #fff0f5;
+}
+
+/* Photo de Delphine */
+.photo-delphine .photo-membre {
+    border-color: #9b59b6;
+}
+
+/* Badge de Delphine */
+.badge-delphine {
+    background-color: #9b59b6;
+}
+
+/* Nom de Delphine */
+.nom-delphine {
+    border-bottom-color: #9b59b6;
+    color: #9b59b6;
+}
+
+/* Description de Delphine */
+.description-delphine {
+    color: #8e44ad;
+}
+
+/* Compétences de Delphine */
+.competence-delphine {
+    border-left-color: #9b59b6;
+    background-color: #f4ecf7;
+}
+
+.competence-delphine:hover {
+    background-color: #9b59b6;
+}
+
+/* Réseaux sociaux de Delphine */
+.reseaux-delphine .lien-reseau {
+    color: #9b59b6;
+    background-color: #f4ecf7;
+}
+
+.reseaux-delphine .lien-reseau:hover {
+    background-color: #9b59b6;
+}

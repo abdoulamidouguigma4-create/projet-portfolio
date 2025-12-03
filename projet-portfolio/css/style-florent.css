@@ -1,0 +1,52 @@
+/* 
+==============================================
+STYLE-FLORENT.CSS
+Styles spécifiques à KOALAGA Florent
+==============================================
+*/
+
+/* Carte spécifique à Florent */
+.carte-florent {
+    background-color: #fff8f0;
+}
+
+/* Photo de Florent */
+.photo-florent .photo-membre {
+    border-color: #e74c3c;
+}
+
+/* Badge de Florent */
+.badge-florent {
+    background-color: #e74c3c;
+}
+
+/* Nom de Florent */
+.nom-florent {
+    border-bottom-color: #e74c3c;
+    color: #e74c3c;
+}
+
+/* Description de Florent */
+.description-florent {
+    color: #c0392b;
+}
+
+/* Compétences de Florent */
+.competence-florent {
+    border-left-color: #e74c3c;
+    background-color: #fdeaea;
+}
+
+.competence-florent:hover {
+    background-color: #e74c3c;
+}
+
+/* Réseaux sociaux de Florent */
+.reseaux-florent .lien-reseau {
+    color: #e74c3c;
+    background-color: #fdeaea;
+}
+
+.reseaux-florent .lien-reseau:hover {
+    background-color: #e74c3c;
+}

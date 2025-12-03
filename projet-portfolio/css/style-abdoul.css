@@ -1,0 +1,52 @@
+/* 
+==============================================
+STYLE-ABDOUL.CSS
+Styles spécifiques à GUIGMA Abdoul Amidou
+==============================================
+*/
+
+/* Carte spécifique à Abdoul */
+.carte-abdoul {
+    background-color: #f0f7ff;
+}
+
+/* Photo d'Abdoul */
+.photo-abdoul .photo-membre {
+    border-color: #2c3e50;
+}
+
+/* Badge d'Abdoul */
+.badge-abdoul {
+    background-color: #2c3e50;
+}
+
+/* Nom d'Abdoul */
+.nom-abdoul {
+    border-bottom-color: #2c3e50;
+    color: #2c3e50;
+}
+
+/* Description d'Abdoul */
+.description-abdoul {
+    color: #34495e;
+}
+
+/* Compétences d'Abdoul */
+.competence-abdoul {
+    border-left-color: #2c3e50;
+    background-color: #e8f4fc;
+}
+
+.competence-abdoul:hover {
+    background-color: #2c3e50;
+}
+
+/* Réseaux sociaux d'Abdoul */
+.reseaux-abdoul .lien-reseau {
+    color: #2c3e50;
+    background-color: #e8f4fc;
+}
+
+.reseaux-abdoul .lien-reseau:hover {
+    background-color: #2c3e50;
+}
